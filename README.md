@@ -1,7 +1,7 @@
 # SPS-10748-Car-Resale-Value-Prediction
 Car Resale Value Prediction
 
-
+Project Demonstration video :- https://drive.google.com/file/d/1oJk-1f0nsvlSw_z9IEd18so8NinI_cPO/view?usp=sharing
 
 OVERVIEW:
 
